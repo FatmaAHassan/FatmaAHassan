@@ -5,11 +5,7 @@
   ## 💫 About Me
 
 
-- 🔭 I’m currently a Mobile Application Developer **Flutter**
-
-- 🌱 I’m currently learning Advanced Flutter
-  
-- 💡 I’m looking for help with DevOps
+- 🔭 I’m currently a Cloud & devOps
 
 <!-- - 📫 Feel free to reach me out **fatma.alaa.hamed@gmail.com**
 <div align="center">
