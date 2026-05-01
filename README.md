@@ -1,11 +1,11 @@
 
 ## 👋 Hi, I’m Fatma Alaa 
 
-I’m a passionate Computer Science graduate, with a growing skill set in **cloud engineering** and **DevOps**.
+I’m a passionate Computer Science graduate, with a growing skill set in **cloud engineering** and **DevOps**,and **Flutter Development**.
 
 # 💫 About Me:
 🎓 BSc (Hons) in Computer Science – Egypt<br>☁️ AWS re/Start Graduate💡 
-Interested in DevOps, and Cloud Engineering<br>🎯 Goal: To become a Cloud/DevOps Engineer and contribute to building stable, efficient solutions
+Interested in DevOps,Cloud Engineering,and Mobile App Development using Flutter<br>🎯 Goal: To become a Cloud/DevOps Engineer and contribute to building stable, efficient solutions
 
 
 ## 🌐 Socials:
