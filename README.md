@@ -23,9 +23,12 @@ I’m a passionate Computer Science graduate with a growing skill set in **Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FatmaAHassan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=FatmaAHassan&theme=tokyonight&hide_border=false)
+![Fatma's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatmaAHassan&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=FatmaAHassan&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaAHassan&layout=compact&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatmaAHassan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
